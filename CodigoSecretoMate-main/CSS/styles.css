@@ -87,3 +87,26 @@ button:hover {
     font-weight: bold;
     margin-top: 15px;
 }
+/* Footer Bottom Section */
+.footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+    border-top: 1px solid #444;
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+.footer-bottom p {
+    margin: 5px 0;
+}
+
+.footer-bottom p a {
+    color: #000000; /* Azul claro */
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footer-bottom p a:hover {
+    text-decoration: underline;
+    color: #ffffff;
+}
